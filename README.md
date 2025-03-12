@@ -1,3 +1,4 @@
-# ai-tech-static
+# AI Tech Webpage
 A beginner friendly static webpage which is not responsive yet.
-![https://al-rihla.github.io/ai-tech-static/]Live Site
+Live Site at https://al-rihla.github.io/ai-tech-static/
+This page gets inspiration from DentyTech website design
